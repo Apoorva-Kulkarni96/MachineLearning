@@ -1,0 +1,1 @@
+Step function has discontinuity, so derivative is undefined at the decision boundary. This makes gradient-based learning impossible. Sigmoid is continuous and differentiable, so it is preferred
